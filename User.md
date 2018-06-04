@@ -2,8 +2,8 @@
 ### 1.1 如何创建用户？
 登录生态云控制台cloud.mi.com（北京-金山云区域），选择“用户管理”。  
   
-![ ](/UserMgmt-1.png)  
+![ ](/images/UserMgmt-1.png)  
   
 进入“用户”管理页面之后，选择“创建新用户”，即可创建新的用户。  
   
-![ ](/UserMgmt-2.png)  
+![ ](/images/UserMgmt-2.png)  
